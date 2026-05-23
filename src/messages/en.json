@@ -1,0 +1,123 @@
+{
+  "common": {
+    "brand": "Hi Hotel",
+    "navigation": {
+      "stay": "Stay",
+      "story": "Story",
+      "amenities": "Amenities",
+      "contact": "Contact",
+      "book": "Book now"
+    },
+    "languages": {
+      "en": "EN",
+      "ru": "RU",
+      "kk": "KZ"
+    },
+    "cityNames": {
+      "almaty": "Almaty",
+      "astana": "Astana"
+    }
+  },
+  "entry": {
+    "eyebrow": "Boutique Urban Hospitality",
+    "title": "Choose Your City Rhythm",
+    "subtitle": "Two cinematic addresses, one refined standard of comfort.",
+    "cards": {
+      "almaty": {
+        "headline": "Mountain Light",
+        "description": "Warm, design-led rooms near the city's cultural pulse and mountain horizon.",
+        "cta": "Enter Almaty"
+      },
+      "astana": {
+        "headline": "Capital Horizon",
+        "description": "Quiet luxury crafted for business tempo, architecture, and evening calm.",
+        "cta": "Enter Astana"
+      }
+    },
+    "bottomNote": "Crafted for travelers who value atmosphere as much as comfort."
+  },
+  "city": {
+    "header": {
+      "book": "Book stay"
+    },
+    "hero": {
+      "scroll": "Scroll to discover",
+      "ctaPrimary": "Reserve your room",
+      "ctaSecondary": "Explore suites",
+      "almaty": {
+        "headline": "A calm boutique retreat between city energy and mountain air.",
+        "description": "Hi Hotel Almaty pairs quiet architecture, tactile materials, and warm service for modern travelers."
+      },
+      "astana": {
+        "headline": "A refined urban residence in the heart of the capital.",
+        "description": "Hi Hotel Astana is designed for focused mornings, elegant evenings, and effortless business travel."
+      }
+    },
+    "booking": {
+      "title": "Reserve your stay",
+      "description": "Select your dates and preferred occupancy. Real-time inventory will be connected via Bnovo.",
+      "checkIn": "Check-in",
+      "checkOut": "Check-out",
+      "guests": "Guests",
+      "guestsSingle": "1 Guest",
+      "guestsDouble": "2 Guests",
+      "guestsFamily": "3 Guests",
+      "search": "Check availability",
+      "searching": "Finding the best available rates...",
+      "placeholder": "Bnovo integration placeholder. The final widget will be injected in this container after backend setup.",
+      "integrationTitle": "Integration readiness",
+      "integrationBody": "Use this block for Bnovo script injection and pass a unique hotel u_id for each city."
+    },
+    "rooms": {
+      "title": "Curated rooms and suites",
+      "description": "Every room is composed like an editorial frame: light, texture, and comfort in balanced proportion.",
+      "details": "View details",
+      "close": "Close room detail",
+      "specArea": "Area",
+      "specGuests": "Guests",
+      "specBed": "Bed",
+      "specView": "View",
+      "highlights": "Room highlights",
+      "reserve": "Reserve this room"
+    },
+    "about": {
+      "title": "A story told through texture, light, and silence",
+      "description": "Hi Hotel is built around a simple idea: luxury should feel calm, personal, and deeply restorative.",
+      "almaty": "In Almaty, our spaces draw from mountain light and natural materials to create restorative urban escapes.",
+      "astana": "In Astana, architecture and soft tonal palettes shape a composed atmosphere for high-performance travel."
+    },
+    "amenities": {
+      "title": "Amenities with intention",
+      "description": "Designed to support both rest and momentum, every service is discreet, useful, and beautifully delivered.",
+      "items": {
+        "conciergeTitle": "24/7 Personal Concierge",
+        "conciergeBody": "Private reservations, transport, and city recommendations.",
+        "wellnessTitle": "Wellness Rituals",
+        "wellnessBody": "In-room recovery kits, curated teas, and sleep-first amenities.",
+        "breakfastTitle": "Signature Breakfast",
+        "breakfastBody": "Seasonal menu with local produce and healthy morning options.",
+        "transferTitle": "Airport Transfers",
+        "transferBody": "Premium transfer options with fixed transparent pricing.",
+        "workspaceTitle": "Quiet Work Zones",
+        "workspaceBody": "High-speed internet and warm, focused working areas.",
+        "housekeepingTitle": "Twice-Daily Care",
+        "housekeepingBody": "Morning refresh and evening turn-down with tactile details."
+      }
+    },
+    "contact": {
+      "title": "Stay connected",
+      "description": "For bookings, special requests, or long-stay options, our team replies quickly through WhatsApp.",
+      "address": "Address",
+      "whatsapp": "WhatsApp",
+      "directions": "Open directions",
+      "mapCaption": "Map preview"
+    },
+    "footer": {
+      "tagline": "Calm luxury in Almaty and Astana.",
+      "rights": "All rights reserved.",
+      "privacy": "Privacy",
+      "terms": "Terms",
+      "offers": "Seasonal offers"
+    }
+  }
+}
