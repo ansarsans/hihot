@@ -3,6 +3,7 @@ import { routing } from "@/i18n/routing";
 import { citySlugs } from "@/lib/hotel-data";
 
 const baseUrl = "https://hihotel.kz";
+export const dynamic = "force-static";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const localeRoots = routing.locales.map((locale) => ({
